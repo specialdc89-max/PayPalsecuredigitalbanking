@@ -1,2 +1,0 @@
-# PayPalsecuredigitalbanking
-Payment
